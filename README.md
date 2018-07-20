@@ -8,8 +8,11 @@
 * qt/QTChartApp.pro: 上位机工程文件
 * CoordinatorEB/Projects/zstack/Samples/SampleApp/CC2530DB/SampleApp.eww : 协调器工程文件
 * EndDeviceEB/Projects/zstack/Samples/SampleApp/CC2530DB/SampleApp.eww  : 终端工程文件
-* 
 * 2018.7.25
 ***
 ## 实现功能：
-* 
+* 湿温度环境数据的采集
+* Zigbee设备之间的无线通信
+* 温湿度参数的显示
+* 温湿度警告门限的设置及提醒
+* 温湿度历史信息查询
