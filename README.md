@@ -1,2 +1,2 @@
-# Intelligent Temperature and Humidity Management System
-智能温湿度管理系统
+# 智能温湿度管理系统
+Intelligent_Temperature_and_Humidity_Management_System
