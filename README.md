@@ -25,6 +25,7 @@
 * 终端空调和除湿器的远程控制
 * 界面主题切换
 ## 窗口界面展示
+![](https://github.com/Leotemp/mymarkdownphoto/raw/master/temhum_img/d.gif)
 ## 运行步骤
 #### 1. 协调器程序烧录
 #### 2. 终端程序烧录
