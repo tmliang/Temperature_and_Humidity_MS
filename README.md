@@ -5,7 +5,7 @@
 
 **007智能温湿度管理系统**是一个基于CC2530开发板和DHT11湿温度传感器的嵌入式温湿度监控系统，结合了C++、QT、Zigbee、Z-Stack等嵌入式开发技术。
 
-* qt/QTChartApp.pro: 上位机工程文件
+* qt/QTChartApp.pro : 上位机工程文件
 * CoordinatorEB/Projects/zstack/Samples/SampleApp/CC2530DB/SampleApp.eww : 协调器工程文件
 * EndDeviceEB/Projects/zstack/Samples/SampleApp/CC2530DB/SampleApp.eww  : 终端工程文件
 * 问题和讨论可以发到我的邮箱 tm.liang@outlook.com
