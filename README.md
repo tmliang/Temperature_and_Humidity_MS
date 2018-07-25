@@ -8,6 +8,7 @@
 * qt/QTChartApp.pro: 上位机工程文件
 * CoordinatorEB/Projects/zstack/Samples/SampleApp/CC2530DB/SampleApp.eww : 协调器工程文件
 * EndDeviceEB/Projects/zstack/Samples/SampleApp/CC2530DB/SampleApp.eww  : 终端工程文件
+* 问题和讨论可以发到我的邮箱 tm.liang@outlook.com
 * 2018.7.25
 ***
 ## 开发环境：
