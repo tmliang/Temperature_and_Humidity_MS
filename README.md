@@ -32,7 +32,10 @@
 #### 2. 终端程序烧录
 ![](https://github.com/Leotemp/mymarkdownphoto/raw/master/temhum_img/b.png)
 #### 3. 运行程序，打开串口
-![](https://github.com/Leotemp/mymarkdownphoto/raw/master/temhum_img/c.png)
+![](https://github.com/Leotemp/mymarkdownphoto/raw/master/temhum_img/e.png)
+#### 4. 切换主题
+![](https://github.com/Leotemp/mymarkdownphoto/raw/master/temhum_img/f.png)
+![](https://github.com/Leotemp/mymarkdownphoto/raw/master/temhum_img/g.png)
 ## 补充几句
 这是我们007小组的Zigbee生产实习作品，因为项目开发时间很短，所以这个系统也十分简陋，但是这个小小的作品已经融入了我们小组每一个人的想法和创意，我们当初说要做到的都做到了。
 
