@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>SampleApp/CoordinatorEB</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>216</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+    <TerminalIO/><Find-in-Files><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>470</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Find-in-Files><Debug-Log><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window></Windows></PreferedWindows><ColumnWidth0>22</ColumnWidth0><ColumnWidth1>1305</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-7905-8295</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>SampleApp</ExpandedNode><ExpandedNode>SampleApp/App</ExpandedNode><ExpandedNode>SampleApp/OSAL</ExpandedNode><ExpandedNode>SampleApp/ZMain</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-20155-15837</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-13180-23310</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\mt\mt_uart.h</Filename><XPos>0</XPos><YPos>55</YPos><SelStart>3846</SelStart><SelEnd>3846</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\target\CC2530EB\hal_types.h</Filename><XPos>0</XPos><YPos>77</YPos><SelStart>3539</SelStart><SelEnd>3539</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\ZMain\TI2530DB\OnBoard.h</Filename><XPos>0</XPos><YPos>140</YPos><SelStart>5655</SelStart><SelEnd>5655</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\stack\af\AF.c</Filename><XPos>0</XPos><YPos>656</YPos><SelStart>20155</SelStart><SelEnd>20164</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\stack\af\AF.h</Filename><XPos>0</XPos><YPos>197</YPos><SelStart>7772</SelStart><SelEnd>7777</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\SampleApp.h</Filename><XPos>0</XPos><YPos>60</YPos><SelStart>3109</SelStart><SelEnd>3109</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\stack\nwk\nwk_globals.h</Filename><XPos>0</XPos><YPos>50</YPos><SelStart>2891</SelStart><SelEnd>2891</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Tools\CC2530DB\f8wConfig.cfg</Filename><XPos>0</XPos><YPos>36</YPos><SelStart>2164</SelStart><SelEnd>2164</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\SampleApp.c</Filename><XPos>0</XPos><YPos>57</YPos><SelStart>3268</SelStart><SelEnd>3268</SelEnd></Tab><ActiveTab>8</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\DHT11.C</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>2767</SelStart><SelEnd>2767</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\DHT11.H</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>172</SelStart><SelEnd>172</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\OSAL_SampleApp.c</Filename><XPos>0</XPos><YPos>105</YPos><SelStart>3499</SelStart><SelEnd>3499</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\ZMain\TI2530DB\ZMain.c</Filename><XPos>0</XPos><YPos>44</YPos><SelStart>7964</SelStart><SelEnd>7964</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\target\CC2530EB\hal_board_cfg.h</Filename><XPos>0</XPos><YPos>183</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\mt\MT_UART.c</Filename><XPos>0</XPos><YPos>207</YPos><SelStart>8361</SelStart><SelEnd>8361</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\mt\MT.h</Filename><XPos>0</XPos><YPos>416</YPos><SelStart>19357</SelStart><SelEnd>19357</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\stack\zdo\ZDApp.h</Filename><XPos>0</XPos><YPos>281</YPos><SelStart>9117</SelStart><SelEnd>9134</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-05e61bc8><key>iaridepm.enu1</key></Toolbar-05e61bc8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>547</Bottom><Right>307</Right><x>-2</x><y>-2</y><xscreen>187</xscreen><yscreen>275</yscreen><sizeHorzCX>141989</sizeHorzCX><sizeHorzCY>387324</sizeHorzCY><sizeVertCX>234624</sizeVertCX><sizeVertCY>773239</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>118</Bottom><Right>1319</Right><x>-2</x><y>-2</y><xscreen>1321</xscreen><yscreen>120</yscreen><sizeHorzCX>1003037</sizeHorzCX><sizeHorzCY>169014</sizeHorzCY><sizeVertCX>151860</sizeVertCX><sizeVertCY>387324</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

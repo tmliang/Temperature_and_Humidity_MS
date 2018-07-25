@@ -1,0 +1,252 @@
+/**********主界面样式**********/
+QWidget {
+    border: 1px solid rgb(111, 156, 207);
+    background: rgb(232, 241, 252);
+    color: black;
+}
+
+/**********分组框**********/
+QGroupBox {
+    border: 2px solid rgb(111, 156, 207);
+    background: rgb(187, 212, 238);
+}
+QGroupBox::title {
+    subcontrol-position: top center;
+    color: rgb(56, 99, 154);
+}
+QGroupBox#GroupBoxchart{
+    border-bottom-color: transparent;
+}
+QGroupBox#GroupBoxdata{
+    border-bottom-color: transparent;
+}
+QGroupBox#GroupBoxplot{
+    border-bottom-color: transparent;
+}
+QGroupBox#GroupBoxsettemp{
+    border: 2px solid rgb(100, 100, 100);
+    border-radius: 0px;
+}
+QGroupBox#GroupBoxsethum{
+    border: 2px solid rgb(100, 100, 100);
+    border-radius: 0px;
+}
+QGroupBox#GroupBoxsettemp::title {
+    color: black;
+}
+QGroupBox#GroupBoxsethum::title {
+    subcontrol-position: top center;
+    color: black;
+}
+
+/**********下拉列表**********/
+QComboBox {
+    height: 25px;
+    border-radius: 4px;
+    border: 1px solid rgb(111, 156, 207);
+    background: rgb(232, 241, 252);
+}
+QComboBox:enabled {
+        color: rgb(84, 84, 84);
+}
+QComboBox:!enabled {
+        color: rgb(80, 80, 80);
+}
+QComboBox:enabled:hover, QComboBox:enabled:focus {
+        color: rgb(51, 51, 51);
+}
+QComboBox::drop-down {
+        width: 20px;
+        border: none;
+        background: transparent;
+}
+QComboBox::drop-down:hover {
+        background: rgba(255, 255, 255, 30);
+}
+QComboBox::down-arrow {
+        image: url(:/White/arrowBottom);
+}
+QComboBox::down-arrow:on {
+        /**top: 1px;**/
+}
+QComboBox QAbstractItemView {
+        border: 1px solid rgb(111, 156, 207);
+        background: white;
+        outline: none;
+}
+QComboBox QAbstractItemView::item {
+        height: 25px;
+        color: rgb(73, 73, 73);
+}
+QComboBox QAbstractItemView::item:selected {
+        background: rgb(232, 241, 250);
+        color: rgb(2, 65, 132);
+}
+
+/**********输入框**********/
+QLineEdit {
+    height: 25px;
+    border: 1px solid rgb(111, 156, 207);
+    background: rgb(232, 241, 252);
+}
+QLineEdit:enabled {
+    color: rgb(84,84,84);
+}
+QLineEdit:enabled:hover, QLineEdit:enabled:focus {
+    color: rgb(51,51,51);
+}
+QLineEdit:!enabled {
+    color: rgb(80,80,80);
+}
+QLineEdit#lineEdittemp{
+    color:rgb(70, 71, 73);
+    border-radius: 4px;
+    height: 25px;
+    border: 1px solid rgb(111, 156, 207);
+    background: white;
+}
+QLineEdit#lineEdithum{
+    color:rgb(70, 71, 73);
+    border-radius: 4px;
+    height: 25px;
+    border: 1px solid rgb(111, 156, 207);
+    background: white;
+}
+QLineEdit#lineEditTempUp{
+    border: 2px solid rgb(0, 165, 235);
+}
+QLineEdit#lineEditTempLow{
+    border: 2px solid rgb(0, 165, 235);
+}
+QLineEdit#lineEditHumUp{
+    border: 2px solid rgb(0, 165, 235);
+}
+QLineEdit#lineEditHumLow{
+    border: 2px solid rgb(0, 165, 235);
+}
+/**********标签**********/
+QLabel{
+    background: rgb(187, 212, 238);
+}
+QLabel#titlelabel{
+    color: black;
+    background: rgb(232, 241, 252);
+    border: none;
+}
+QLabel#statusBar{
+    border: 2px solid rgb(111, 156, 207);
+    background: rgb(187, 212, 238);
+    color:rgb(255, 85, 0);
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+}
+QLabel#labelstatus{
+    border: 2px solid rgb(111, 156, 207);
+    background: rgb(187, 212, 238);
+    border-bottom-color: transparent;
+    border-right-color: transparent;
+
+}
+QLabel#labelCom{
+    border: 2px solid rgb(0, 165, 235);
+    font-size: 15px;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-left-color: transparent;
+    background: rgb(232, 241, 250);
+    border-radius: 4px;
+}
+QLabel#labelbaud{
+    border: 2px solid rgb(0, 165, 235);
+    font-size: 15px;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-left-color: transparent;
+    background: rgb(232, 241, 250);
+    border-radius: 4px;
+}
+QLabel#labeldatabits{
+    border: 2px solid rgb(0, 165, 235);
+    font-size: 15px;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-left-color: transparent;
+    background: rgb(232, 241, 250);
+    border-radius: 4px;
+}
+QLabel#labelparity{
+    border: 2px solid rgb(0, 165, 235);
+    font-size: 15px;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-left-color: transparent;
+    background: rgb(232, 241, 250);
+    border-radius: 4px;
+}
+QLabel#labelstopBits{
+    border: 2px solid rgb(0, 165, 235);
+    font-size: 15px;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-left-color: transparent;
+    background: rgb(232, 241, 250);
+    border-radius: 4px;
+}
+QLabel#labeltemp{
+    border: 2px solid rgb(0, 165, 235);
+    font-size: 15px;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-left-color: transparent;
+    background: rgb(232, 241, 250);
+    border-radius: 4px;
+}
+QLabel#labelhum{
+    border: 2px solid rgb(0, 165, 235);
+    font-size: 15px;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-left-color: transparent;
+    background: rgb(232, 241, 250);
+    border-radius: 4px;
+}
+QLabel#labeltemup{
+    border: 2px solid rgb(0, 165, 235);
+    border-right-color: transparent;
+}
+QLabel#labeltemlow{
+    border: 2px solid rgb(0, 165, 235);
+    border-right-color: transparent;
+}
+QLabel#labelhumup{
+    border: 2px solid rgb(0, 165, 235);
+    border-right-color: transparent;
+}
+QLabel#labelhumlow{
+    border: 2px solid rgb(0, 165, 235);
+    border-right-color: transparent;
+}
+
+/**********按钮**********/
+
+QPushButton{
+    border-radius: 4px;
+    border: none;
+    width: 75px;
+    height: 25px;
+}
+
+QPushButton:enabled {
+    background: rgb(0, 78, 161);
+    color: white;
+}
+QPushButton:!enabled {
+    background: rgb(180, 180, 180);
+    color: white;
+}
+QPushButton:enabled:hover {
+    background: rgb(2, 65, 132);
+}
+QPushButton:enabled:pressed {
+    background: rgb(6, 94, 187);
+}

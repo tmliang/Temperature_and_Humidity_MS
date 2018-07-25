@@ -1,0 +1,44 @@
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+TypeVolition=1
+UnspecRange=1
+ActionState=1
+[DebugChecksum]
+Checksum=-629785021
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[ChipconEmu]
+Stop timers on halt=0
+Leave target running=1
+[Aliases]
+A0=_ "F:\Texas Instruments-sensor\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\Samples\裸机程序\2.温湿度传感器DHT11\main.c" "F:\zigbee第三版例程\3、传感器实验\2、温湿度传感器DHT11\Projects\zstack\Samples\裸机程序\温湿度传感器DHT11\main.c"
+Count=1
+SuppressDialog=0

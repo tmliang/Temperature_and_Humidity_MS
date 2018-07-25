@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>off.png</file>
+        <file>on.png</file>
+        <file>Orange.qss</file>
+        <file>White.qss</file>
+        <file>Black.qss</file>
+        <file>a.png</file>
+        <file>b.png</file>
+        <file>title_black.png</file>
+        <file>title_orange.png</file>
+        <file>title_white.png</file>
+        <file>welcome.jpg</file>
+    </qresource>
+</RCC>

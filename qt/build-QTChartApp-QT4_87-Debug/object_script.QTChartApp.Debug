@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\chartwidget.o
+./debug\qextserialbase.o
+./debug\qextserialport.o
+./debug\win_qextserialport.o
+./debug\qcustomplot.o
+./debug\dataviewer.o
+./debug\moc_chartwidget.o
+./debug\moc_qextserialbase.o
+./debug\moc_qextserialport.o
+./debug\moc_win_qextserialport.o
+./debug\moc_qcustomplot.o
+./debug\moc_dataviewer.o
+./debug\qrc_otherfile.o
+);
