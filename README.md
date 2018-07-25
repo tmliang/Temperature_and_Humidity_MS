@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/status-stable-brightgreen.svg)
 ![qt version](https://img.shields.io/badge/qt%20version-4.87-red.svg)
 
-**007智能温湿度管理系统** 是一个基于CC2530开发板和DHT11湿温度传感器的嵌入式温湿度监控系统，结合了C++、QT、Zigbee、Z-Stack等嵌入式开发技术。
+**007智能温湿度管理系统**是一个基于CC2530开发板和DHT11湿温度传感器的嵌入式温湿度监控系统，结合了C++、QT、Zigbee、Z-Stack等嵌入式开发技术。
 
 * qt/QTChartApp.pro : 上位机工程文件
 * CoordinatorEB/Projects/zstack/Samples/SampleApp/CC2530DB/SampleApp.eww : 协调器工程文件
