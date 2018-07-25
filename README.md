@@ -37,6 +37,6 @@
 ![](https://github.com/Leotemp/mymarkdownphoto/raw/master/temhum_img/f.png)
 ![](https://github.com/Leotemp/mymarkdownphoto/raw/master/temhum_img/g.png)
 ## 补充几句
-这是我们007小组的Zigbee生产实习作品，因为项目开发时间很短，所以这个系统也十分简陋，但是这个小小的作品已经融入了我们小组每一个人的想法和创意，我们当初说要做到的都做到了。
+这是我们007小组的Zigbee生产实习作品，因为项目开发时间很短，所以这个系统也十分简陋，但是这个小小的作品已经融入了我们小组每一个人的想法和创意，我们当初说要做到的都做到了,我很自豪能拥有这一群队友。
 
 谨以此纪念我们这一段短暂而难忘的合作时光，祝愿007小组每个人都能实现自己想要的未来。
