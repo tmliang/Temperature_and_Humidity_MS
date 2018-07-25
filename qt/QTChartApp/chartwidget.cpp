@@ -1,4 +1,4 @@
-//
+/*
 // The MIT License (MIT)
 //
 // Copyright (c) 2018 007小组
@@ -6,7 +6,7 @@
 // Date : 2018.7.25
 //
 // Description : 主窗口界面
-//
+*/
 #include "chartwidget.h"
 #include "ui_chartwidget.h"
 #include <QDebug>
